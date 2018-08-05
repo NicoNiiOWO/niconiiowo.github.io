@@ -1,0 +1,42 @@
+.row{   
+    background-color: #365936;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content: space-around;
+}
+.headshot{
+    width:20%; 
+    border: 1px solid black;
+    border-radius: 100%;
+    background-color: white;
+}
+.mid{
+    background-color: #ccffcc;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+.aboutme img{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    font-size: 100%;
+}
+body{
+    font-family: "Comic Sans MS";
+    background-color: #ccffcc;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#contact p{
+    color: black;
+}
