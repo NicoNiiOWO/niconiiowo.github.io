@@ -37,6 +37,11 @@ a{
     text-decoration: none;
     color: white;
 }
+p a{
+    background-color: darkgreen;
+    border-radius: 3px;
+    padding: 2px;
+}
 #contact p{
     color: black;
 }
